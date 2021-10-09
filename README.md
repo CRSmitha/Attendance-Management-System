@@ -1,1 +1,3 @@
-# Attendance-Management-System
+# Attendance-Management-System 
+this program will accept the day, month and year of taking attendance, it will aslo allow us to mark a student present or absent, then it will display 
+ student attendance list along with the date.
